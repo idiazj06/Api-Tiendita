@@ -55,5 +55,10 @@
             "stock": 100,
             "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651659/Mi%20Tiendita/pngwing.com_6_fnpabl.png"
         }
-    ]
+    ],
+    "usuarios":[{
+        "id":1,
+        "email":"admin@example.com",
+        "password":"admin123"
+    }]
 }
