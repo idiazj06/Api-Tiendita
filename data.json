@@ -3,7 +3,7 @@
             "id": 1,
             "nombre": "Limon",
             "descripcion": "Limon verde ",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://w7.pngwing.com/pngs/847/969/png-transparent-juicer-lemon-squeezer-lime-fresh-fruit-lemon-natural-foods-food-citrus.png"
         },
@@ -11,7 +11,7 @@
             "id": 2,
             "nombre": "Tomate",
             "descripcion": "Tomate Chonto",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://e7.pngegg.com/pngimages/487/31/png-clipart-cherry-tomato-vegetable-natural-foods-food.png"
         },
@@ -19,7 +19,7 @@
             "id": 3,
             "nombre": "Aguacate",
             "descripcion": "Aguacate ",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://e7.pngegg.com/pngimages/59/37/png-clipart-hass-avocado-mousse-food-fruit-ripening-aguacate-food-agriculture.png"
         },
@@ -27,7 +27,7 @@
             "id": 4,
             "nombre": "Fresa",
             "descripcion": "Fresa",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://e1.pngegg.com/pngimages/192/956/png-clipart-two-red-strawberry-fruits.png"
         },
@@ -35,7 +35,7 @@
             "id": 5,
             "nombre": "Banano",
             "descripcion": "Banano ",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://w7.pngwing.com/pngs/574/205/png-transparent-cooking-banana-food-smoothie-vegetarian-cuisine-banana-food-cooking-smoothie.png"
         },
@@ -43,7 +43,7 @@
             "id": 6,
             "nombre": "Maracuya",
             "descripcion": "Maracuya ",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://w7.pngwing.com/pngs/574/205/png-transparent-cooking-banana-food-smoothie-vegetarian-cuisine-banana-food-cooking-smoothie.png"
         },
@@ -51,7 +51,7 @@
             "id": 7,
             "nombre": "Piña",
             "descripcion": "Piña ",
-            "precio": "2000",
+            "precio": 2000,
             "stock": 100,
             "imagen": "https://w7.pngwing.com/pngs/574/205/png-transparent-cooking-banana-food-smoothie-vegetarian-cuisine-banana-food-cooking-smoothie.png"
         }
