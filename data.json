@@ -5,7 +5,7 @@
             "descripcion": "Limon verde ",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://w7.pngwing.com/pngs/847/969/png-transparent-juicer-lemon-squeezer-lime-fresh-fruit-lemon-natural-foods-food-citrus.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651402/Mi%20Tiendita/pngwing.com_1_hq9hnc.png"
         },
         {
             "id": 2,
@@ -13,7 +13,7 @@
             "descripcion": "Tomate Chonto",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://e7.pngegg.com/pngimages/487/31/png-clipart-cherry-tomato-vegetable-natural-foods-food.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651529/Mi%20Tiendita/pngwing.com_2_wr5n1z.png"
         },
         {
             "id": 3,
@@ -21,7 +21,7 @@
             "descripcion": "Aguacate ",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://e7.pngegg.com/pngimages/59/37/png-clipart-hass-avocado-mousse-food-fruit-ripening-aguacate-food-agriculture.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651562/Mi%20Tiendita/pngwing.com_3_w2rewv.png"
         },
         {
             "id": 4,
@@ -29,7 +29,7 @@
             "descripcion": "Fresa",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://e1.pngegg.com/pngimages/192/956/png-clipart-two-red-strawberry-fruits.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651582/Mi%20Tiendita/pngwing.com_4_vjl5xs.png"
         },
         {
             "id": 5,
@@ -37,7 +37,7 @@
             "descripcion": "Banano ",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://w7.pngwing.com/pngs/574/205/png-transparent-cooking-banana-food-smoothie-vegetarian-cuisine-banana-food-cooking-smoothie.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651653/Mi%20Tiendita/pngwing.com_5_fmehgs.png"
         },
         {
             "id": 6,
@@ -45,7 +45,7 @@
             "descripcion": "Maracuya ",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://w7.pngwing.com/pngs/574/205/png-transparent-cooking-banana-food-smoothie-vegetarian-cuisine-banana-food-cooking-smoothie.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651663/Mi%20Tiendita/pngwing.com_7_dd9gl2.png"
         },
         {
             "id": 7,
@@ -53,7 +53,7 @@
             "descripcion": "Piña ",
             "precio": 2000,
             "stock": 100,
-            "imagen": "https://w7.pngwing.com/pngs/574/205/png-transparent-cooking-banana-food-smoothie-vegetarian-cuisine-banana-food-cooking-smoothie.png"
+            "imagen": "https://res.cloudinary.com/duaokxfsp/image/upload/v1631651659/Mi%20Tiendita/pngwing.com_6_fnpabl.png"
         }
     ]
 }
